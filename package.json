@@ -1,0 +1,32 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "automation software testing with cypress",
+  "main": "index.js",
+  "ng-recaptcha": "^7.0.1",
+  "chromeWebSecurity": false,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsalov8/cypress.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "duje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsalov8/cypress/issues"
+  },
+  "homepage": "https://github.com/dsalov8/cypress#readme",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+  
+}
+
