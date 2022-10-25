@@ -7,7 +7,7 @@ module.exports = defineConfig({
       // implement node event listeners here
       // base URL the use cy.origin for other URL
       // chromeWebSecurity --> FALSE
-       projectId: "x4aepm"
+
     },
   },
 });
